@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
-      "id": 1
-    },
-    {
-      "title": "Harry Potter",
+      "title": "MySQL",
       "id": 2
     },
     {
-      "title": "MySQL",
+      "title": "Java",
       "id": 3
+    },
+    {
+      "title": "CSS is Great",
+      "id": 4
     }
   ]
 }
